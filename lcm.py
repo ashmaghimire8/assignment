@@ -15,5 +15,5 @@ def calculate_lcm(x, y):
        greater += 1
 
    return lcm
-
+#resuult
 print("The L.C.M. is", calculate_lcm(num1, num2))
