@@ -1,3 +1,4 @@
+#calculate lcm
 num1 = 3
 num2 = 4
 
