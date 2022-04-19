@@ -1,7 +1,7 @@
 #censoring a word
  
-text = input("Enter your text: ").lower()
-word = input("Choose a word from the previously entered text to be censored: ").lower()
+text = input("Enter your text: ")
+word = input("Choose a word from the previously entered text to be censored: ")
 
 def censor(text,word):
     t=text.split()
